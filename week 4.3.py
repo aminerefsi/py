@@ -1,0 +1,7 @@
+print('Enter the first number:')
+num1 = int(input())
+print('Enter the second number:')
+num2 = int(input())
+print('Enter the third number:')
+num3 = int(input())
+print('The sum of the three numbers is:', num1 + num2 + num3)
